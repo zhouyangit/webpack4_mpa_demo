@@ -13,4 +13,3 @@ webpack4搭建多页面多环境demo
 npm run local
 其余方法npm run dev, npm run test等均为build方法，如需变更，请去package.json中以及env-config中自行修改
 
-更多详细介绍可以查看  https://juejin.im/post/5b9116086fb9a05d05307e96
